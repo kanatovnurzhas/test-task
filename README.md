@@ -15,3 +15,5 @@ app2:
 ```sh
 $ go run cmd/main.go --config=config/config.toml
 ```
+### Docker
+Докер находится на стадии разработки...
